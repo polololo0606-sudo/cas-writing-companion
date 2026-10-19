@@ -34,4 +34,4 @@ This is an independent resource, not an official IB or ManageBac publication. It
 
 ---
 
-For illustrative drafting and practice. Generated passages are examples for discussion and adaptation, rather than records of completed CAS work or ready-to-submit entries.
+For illustrative drafting and practice. Outputs are examples to review and adapt.
